@@ -1,1 +1,4 @@
-# backend implementation for ecommerce site using MOngoDB, Express , NodeJS
+# Backend implementation for ecommerce site using  - 
+- MOngoDB
+- Express 
+- NodeJS
